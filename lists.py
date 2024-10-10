@@ -2,6 +2,7 @@
 from operator import index
 from queue import PriorityQueue
 
+
 countries = ["Brazil", "Canada", "Colombia", "Ecuador", "Japan", "Iran", "Mexico",
              "Nepal", "South Korea", "Taiwan", "USA", "France"]
 

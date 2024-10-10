@@ -1,6 +1,7 @@
 # Lab 5 - Maria Jose Teran
 import matplotlib.pyplot as plt
-import numpy as np
+import numpy as np3
+
 
 # Exercise 1: Basic Line Plot
 # ex.1. Objective: Create a simple line plot.

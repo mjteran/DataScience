@@ -17,3 +17,4 @@ print(np_bmi)
 print(np_bmi[np_height>1.8])
 
 
+

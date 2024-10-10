@@ -35,4 +35,3 @@ bmi_2d = []
 for i in range(len(users[0])):
     bmi_2d.append(round(users[1][i] /users[0][i]**2,2))
 print(bmi_2d)
-
